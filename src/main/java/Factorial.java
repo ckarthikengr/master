@@ -16,5 +16,4 @@ public class Factorial {
         return fibonacci(test-1)* test;
     }
 
-
 }
