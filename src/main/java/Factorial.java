@@ -8,6 +8,7 @@ public class Factorial {
         int test=new Scanner(System.in).nextInt();
         System.out.println(fibonacci(test));
     }
+
     private static int fibonacci(int test) {
         if(test==1){
             return 1;
